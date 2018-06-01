@@ -2,6 +2,8 @@
 
 This is a basic React template I made for small projects. It's meant to be a clean and lightweight starting point for basic React apps. Feel free to use it and to share your [feedback](mailto:baukeposthuma@gmail.com) with me.
 
+![preview](https://github.com/Bauke777/react-basic-template/blob/master/preview.png?raw=true)
+
 ## Dependencies
 
 - **react** *15.2.1*
